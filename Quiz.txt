@@ -1,7 +1,7 @@
 *****************************************************
-Project Name:  Recipe Display Application
-Author: 
-Date:   
+Project Name:  Recipe Display Application - Project 
+Author: Ania Augustin
+Date:   7/13/2015
 
 *****************************************************
 
