@@ -31,7 +31,7 @@ Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
 
-
+A Jquery statment starts off with..... ()
 
 
 
