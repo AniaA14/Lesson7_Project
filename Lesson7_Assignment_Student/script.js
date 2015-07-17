@@ -11,7 +11,7 @@ Filename: script.js
 
 
 
-// Function Diplay
+// Function Display
 
 function display(event){
     
@@ -39,14 +39,14 @@ $("h3").hover(display2);
 //Recipe Display Application
 function display2(event) {
     $(event.currentTarget).next().animate( {height: 'toggle'}, "slow");
+    // $(event.currentTarget).prev().animate( {left: '100px'}, "slow");// Office hours example sliding text
     
-}
+};
 
 //Hover Example 2
-
-$(h3).hover(function() {
+$("h3").hover(function() {
     $(this).css("background-color", "yellow");
-   }, function (){
+   }, function(){
     $(this).css("background-color", "pink");
-    
-});
+ });
+

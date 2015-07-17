@@ -13,7 +13,7 @@ Question #1:  (5 points)
 ++++++++++++
 Why should you ensure that the script element that links to the jQuery library file comes before any other script element for a .js file that includes jQuery code?
 
-
+*** So the content on the website won't load slow and the jQuery will have to be parsed before the page is rendered. 
 
 
 ++++++++++++
@@ -31,7 +31,7 @@ Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
 
-A Jquery statment starts off with..... ()
+A Jquery statment starts off downloading a 
 
 
 
