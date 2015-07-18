@@ -28,9 +28,9 @@ $("h3").click(display);
 
 
 // This code will trigger the display2 (toggle, animate)
-/*
+
 $("h3").click(display2);
-*/
+
 
 //Hover display 
 $("h3").hover(display2);
