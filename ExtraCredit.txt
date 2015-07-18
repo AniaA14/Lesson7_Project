@@ -1,6 +1,6 @@
 ********************************************************************************
 Project Name:  Recipe Display Application - Extra Credit Assignment  (+4 points)
 Author: Ania Augustin
-Date:   7/13/2015
+Date:  7/13/2015
 
 ******************************************************************************** 
