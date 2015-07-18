@@ -21,7 +21,7 @@ Question #2:  (5 points)
 ++++++++++++
 Why should you avoid including jQuery in a project if you don't need it?
 
-
+* You should avoid jQuery in a project due to slowing it down, when the website is loading.
 
 
 
@@ -31,7 +31,7 @@ Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
 
-A Jquery statment starts off downloading a 
+A Jquery statment starts off with a $ sign. And    download a jquery library from jquery website, and  added at the bottom of html, but befor the closing body tag (using a script).
 
 
 
@@ -39,5 +39,9 @@ A Jquery statment starts off downloading a
 Question #4: (10 points)
 ++++++++++++
 What is a Content Delivery Network (CDN)?  List and explain at least FOUR advantages in using a CDN.
-
-        Content Delivery Network or CDN is a large disbuted 
+Content Delivery Network or CDN is a large disstributed servers that deliver webpages and other web content bassed on the user location, content of the webpage and content delivery server.
+Four advatages is it: 
+---- decreases server load: it decrease the server load on interconnects, backbones and frees up overall capacity. In other words the contentcan be spread across over servel servers, then onto one large server.
+---- faster content delivery: CDN's are closer to a a group of users, latency and packet loss are less likely to happen due to the shorter distance traveled, 
+ ---- increase in the number of concurrent users:  CDN can result to a high network backbone capcity, which can increase the number of users accessing the network.
+---- more control of asset delivery: controls more of the assest delevery and network delivered, by delivering real-time load statistics..
